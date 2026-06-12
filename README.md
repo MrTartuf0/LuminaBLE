@@ -14,6 +14,17 @@ The easy route would have been buying a cheap Wi-Fi smart switch (like a Shelly 
 
 Instead of giving up, I went full DIY. I 3D-printed a custom mount, hooked a servo motor to the physical wall switch, wired it to an Arduino Nano 33 IoT, and built a native Android app from scratch. It communicates directly via Bluetooth Low Energy (BLE). No Wi-Fi needed, no cloud services, and no dorm network rules broken. Just me, my alarm, and some hardware hacking.
 
+## 📸 Demo & Hardware
+
+
+
+https://github.com/user-attachments/assets/b6a57758-7a99-4972-a61a-0ee88c558888
+
+
+
+
+
+
 ## 🏗️ The Tech Stack (4-Tier IoT Architecture)
 
 1. **Device (Actuator):** A 5V Servo Motor physically pushing the wall switch.
