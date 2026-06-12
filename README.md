@@ -16,6 +16,7 @@ Instead of giving up, I went full DIY. I 3D-printed a custom mount, hooked a ser
 
 ## 📸 Demo & Hardware
 
+<img width="1512" height="573" alt="27815219-692E-4FC6-BECE-D3939F531E7E_1_201_a" src="https://github.com/user-attachments/assets/524ca87a-43f4-474b-9f61-e8a53d7e98fc" />
 
 
 https://github.com/user-attachments/assets/b6a57758-7a99-4972-a61a-0ee88c558888
